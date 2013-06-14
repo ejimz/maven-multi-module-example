@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.jamesward</groupId>
     <artifactId>multi</artifactId>
-    <version>1.5-SNAPSHOT</version>
+    <version>1.6-SNAPSHOT</version>
         <scm>
                 <connection>scm:git:git@github.com:serialsito/maven-multi-module-example.git</connection>
                 <developerConnection>scm:git:git@github.com:serialsito/maven-multi-module-example.git</developerConnection>
